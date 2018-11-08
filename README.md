@@ -55,7 +55,7 @@ Brooklyn:
 Doc:
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/954/badge)](https://bestpractices.coreinfrastructure.org/projects/954)
 Validators:
-[![Instance Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)]
+[![Instance Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)
 
 
 
