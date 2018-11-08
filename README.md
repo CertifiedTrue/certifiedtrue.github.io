@@ -47,4 +47,4 @@ Web:
 Blockchain:
 [![Build Status](https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true)](https://travis-ci.org/perkeep/perkeep)
 AWS:
-[Build Status](https://codebuild.us-east-1.amazon.com/badges?uuid=...&branch=master)
+[Build Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)
