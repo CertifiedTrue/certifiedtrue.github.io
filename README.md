@@ -43,7 +43,7 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 
 ### Status  
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20blockchain%20certification%20in%20Legal,%20Real%20Estate%20and%20Insurance%20url=https://certifiedtrue.github.io/&hashtags=certifiedtrue)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20blockchain%20certification%20in%20Legal,%20Real%20Estate%20and%20Insurance%20&url=https://certifiedtrue.github.io/&hashtags=certifiedtrue,blockchain)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 
