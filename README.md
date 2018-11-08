@@ -42,18 +42,10 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 <table><tr>
  <td>Linux: </td>
- <td><a href='https://travis-ci.org/perkeep/perkeep'><img style='vertical-align:middle' src='https://travis-ci.org/perkeep/perkeep.svg?branch=master'></td>
+ <td><a href='https://travis-ci.org/perkeep/perkeep'><img style='vertical-align:middle' src='https://travis-ci.org/perkeep/perkeep.svg?branch=master'>
  <td>Windows: </td>
- <td><a href='https://ci.appveyor.com/project/mpl/perkeep/branch/master'><img src='https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true'></td>
+ <a href='https://ci.appveyor.com/project/mpl/perkeep/branch/master'><img src='https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true'></td>
 </tr></table>
 
 
-|   	|   	|   	|   	|   	|   	|
-|---	|---	|---	|---	|---	|---	|
-
-[![Build Status](https://jenkins.hyperledger.org/buildStatus/icon?job=fabric-merge-x86_64)](https://jenkins.hyperledger.org/view/fabric/job/fabric-merge-x86_64/)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/955/badge)](https://bestpractices.coreinfrastructure.org/projects/955)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hyperledger/fabric)](https://goreportcard.com/report/github.com/hyperledger/fabric)
-[![GoDoc](https://godoc.org/github.com/hyperledger/fabric?status.svg)](https://godoc.org/github.com/hyperledger/fabric)
-[![Documentation Status](https://readthedocs.org/projects/hyperledger-fabric/badge/?version=latest)](http://hyperledger-fabric.readthedocs.io/en/latest/?badge=latest)
 
