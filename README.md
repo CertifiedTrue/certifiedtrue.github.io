@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CertifiedTrue/certifiedtrue.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# CertifiedTrue
+CertifiedTrue is a public/private consortium effort created to advance blockchain certification in Legal, Real Estate, and Insurance (LIR). It is a composition of blockchain, smart contracts, web3js, content addressible storage and other enterprise technologies. Certnet the blockchain is fostered by CertifiedTrue who provides blockchain business certification services, ecosystem and community management. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why Create Certnet?
+Not since the Web itself has a technology promised broader and more fundamental revolution than blockchain technology. A blockchain is a peer-to-peer distributed ledger forged by consensus, combined with a system for “smart contracts” and other assistive technologies. Together these can be used to build a new generation of transactional applications that establishes trust, accountability and transparency at their core, while streamlining business processes and legal constraints.
+Think of it as an operating system for marketplaces, data-sharing networks, micro-currencies, and decentralized digital communities. It has the potential to vastly reduce the cost and complexity of getting things done in the real world.
+Only an Open Source, collaborative software development approach can ensure the transparency, longevity, interoperability and support required to bring blockchain technologies forward to mainstream commercial adoption. That is what CertifiedTrue is about – building blockchain consortium. 
 
-### Markdown
+## Goals
+Certnet has the following goals:
+* Create enterprise grade, open source, distributed ledger and applications to support LRI certified business transactions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Provide neutral, open, and community-driven blockchain supported by technical and business governance
 
-```markdown
-Syntax highlighted code block
+* Build technical communities to develop blockchain and shared ledger apps, and validate blockchain transactions for certification. Read about our [incentives for validators] (https://certnet.io).
 
-# Header 1
-## Header 2
-### Header 3
+* Educate the Legal, Real Estate and Insuranace community about the market opportunity for blockchain technology.
 
-- Bulleted
-- List
+* Promote our community of communities taking a validator and transactor approach with our blockchain and apps.
 
-1. Numbered
-2. List
+## Projects
+CertifiedTrue incubates and promotes a [range of business blockchain technologies](https://github.com/CertifiedTrue), including blockchain distributed ledger nodes on AWS, content addressible storage on GCP, Android and iOS client libraries, graphical interfaces, utility libraries and sample applications. CertifiedTrue strategy encourages the re-use of common software building blocks and enables rapid innovation of DLT components by supporting Hyperledger and different open source projects, contributing back to the progress through a standard [life cycle](https://wiki.hyperledger.org/community/project-lifecycle).  
 
-**Bold** and _Italic_ and `Code` text
+## Get Involved with the CertifiedTrue community
+There are a number of ways that you can get involved with the [CertifiedTrue community](http://certifedture.co):
 
-[Link](url) and ![Image](src)
-```
+* Participate on the [Hyperledger mailing lists](http://lists.hyperledger.org/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Host a CertifiedTrue event at your [meetup](http://www.meetup.com/pro/hyperledger/)
 
-### Jekyll Themes
+* Join the discussion on [Rocket.Chat](https://chat.hyperledger.org/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CertifiedTrue/certifiedtrue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Participate in the [working group meetings](https://wiki.hyperledger.org/community/calendar-public-meetings)
 
-### Support or Contact
+* Search for open bugs or create a new bug in our [bug database](https://jira.hyperledger.org/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Get the latest certifiedtrue nodes from our [repo](https://github.com/certifiedtrue)
+
+* Download the [code](https://github.com/hyperledger)
