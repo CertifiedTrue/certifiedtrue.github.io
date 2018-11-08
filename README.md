@@ -42,7 +42,7 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 
 Linux:
-<a href='https://travis-ci.org/perkeep/perkeep'><img src='https://travis-ci.org/perkeep/perkeep.svg?branch=master'>
+[![Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
 [![Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
 Windows:
 <a href='https://ci.appveyor.com/project/mpl/perkeep/branch/master'><img src='https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true'>
