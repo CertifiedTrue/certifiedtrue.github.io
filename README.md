@@ -39,7 +39,7 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 * Get the latest CertNet nodes from our [repo](https://github.com/CertifiedTrue/PoA)
 
-* Download the sample [code](https://github.com/certifiedtrue)
+* Download the [code](https://github.com/certifiedtrue)
 
 
 ### Status
