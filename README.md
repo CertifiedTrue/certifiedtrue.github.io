@@ -41,8 +41,8 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 ### CertifiedTrue Continuous Integration
 
 
- Linux:
-<a href='https://travis-ci.org/perkeep/perkeep'><img style='vertical-align:middle' src='https://travis-ci.org/perkeep/perkeep.svg?branch=master'>
+Linux:
+<a href='https://travis-ci.org/perkeep/perkeep'><img src='https://travis-ci.org/perkeep/perkeep.svg?branch=master'>
 Windows:
 <a href='https://ci.appveyor.com/project/mpl/perkeep/branch/master'><img src='https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true'>
 
