@@ -40,13 +40,11 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 ### CertifiedTrue Continuous Integration
 
-
-Linux:
+Storage:
 [![Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
+Web:
 [![Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
-Windows:
-<a href='https://ci.appveyor.com/project/mpl/perkeep/branch/master'><img src='https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true'>
-
-
-
-
+Blockchain:
+[![Build Status](https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true)](https://travis-ci.org/perkeep/perkeep)
+AWS:
+[Build Status](https://codebuild.us-east-1.amazon.com/badges?uuid=...&branch=master)
