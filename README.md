@@ -42,7 +42,7 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 * Download the [code](https://github.com/certifiedtrue)
 
 
-## Status  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20blockchain%20certification%20in%20Legal,%20Real%20Estate%20and%20Insurance%20&url=https://certifiedtrue.github.io/&hashtags=certifiedtrue,blockchain)
+### Status  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20blockchain%20certification%20in%20Legal,%20Real%20Estate%20and%20Insurance%20&url=https://certifiedtrue.github.io/&hashtags=certifiedtrue,blockchain)
 
 [![Storage Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
 [![CertNet Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
