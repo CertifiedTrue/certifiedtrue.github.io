@@ -6,8 +6,6 @@
 [![CertTrue Build Status](https://travis-ci.org/CertifiedTrue/certifiedtrue.co.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certifiedtrue.co)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
 [![Brooklyn Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/954/badge)](https://bestpractices.coreinfrastructure.org/projects/954)
-[![Validators Instance Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)](https://ec2-54-204-243-35.compute-1.amazonaws.com)
 
 # CertifiedTrue
 CertifiedTrue is a public/private consortium effort created to advance blockchain certification in Legal, Real Estate and Insurance (LIR). It is a composition of blockchain, smart contracts, web3js, content addressable storage and other enterprise technologies. Certnet the blockchain is fostered by CertifiedTrue who provides blockchain business certification services, ecosystem and community management. 
@@ -59,7 +57,7 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 [![CertTrue Build Status](https://travis-ci.org/CertifiedTrue/certifiedtrue.co.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certifiedtrue.co)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
 [![Brooklyn Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/954/badge)](https://bestpractices.coreinfrastructure.org/projects/954)
-[![Validators Instance Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)](https://ec2-54-204-243-35.compute-1.amazonaws.com)
+
+
 
 
