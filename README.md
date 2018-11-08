@@ -51,7 +51,7 @@ CertTrue:
 Validators:
 [![Instance Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)]
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
-![Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
+[![Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/en/projects/954)](https://bestpractices.coreinfrastructure.org/projects/954)
 
 
