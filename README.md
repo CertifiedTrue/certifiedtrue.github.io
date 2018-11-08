@@ -44,9 +44,15 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 Storage:
 [![Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
-Web:
+Certnet:
 [![Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
-Blockchain:
-[![Build Status](https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true)](https://travis-ci.org/perkeep/perkeep)
-AWS:
-[![Build Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)]
+CertTrue:
+[![Build Status](https://travis-ci.org/CertifiedTrue/certifiedtrue.co.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certifiedtrue.co)
+Validators:
+[![Instance Status](https://ec2-54-204-243-35.compute-1.amazonaws.com?svg=true)]
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
+![Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/en/projects/954)](https://bestpractices.coreinfrastructure.org/projects/954)
+
+
+
