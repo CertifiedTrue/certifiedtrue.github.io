@@ -38,3 +38,12 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 * Download the [code](https://github.com/hyperledger)
 
+### CertifiedTrue Continuous Integration
+
+<table><tr>
+ <td>Linux: </td>
+ <td><a href='https://travis-ci.org/perkeep/perkeep'><img style='vertical-align:middle' src='https://travis-ci.org/perkeep/perkeep.svg?branch=master'></td>
+ <td>Windows: </td>
+ <td><a href='https://ci.appveyor.com/project/mpl/perkeep/branch/master'><img src='https://ci.appveyor.com/api/projects/status/bbdqxcy2b6x4lt2r/branch/master?svg=true'></td>
+</tr></table>
+
