@@ -1,6 +1,6 @@
 
 # CertifiedTrue
-CertifiedTrue is a public/private consortium effort created to advance blockchain certification in Legal, Real Estate and Insurance (LIR). It is a composition of blockchain, smart contracts, web3js, content addressable storage and other enterprise technologies. Certnet the blockchain is fostered by CertifiedTrue who provides blockchain business certification services, ecosystem and community management. 
+CertifiedTrue is a public/private consortium effort created to advance blockchain certification in Legal, Insurance and Real Estate (LIR) industries. It is a composition of blockchain, smart contracts, web3js, content addressable storage and other enterprise technologies. Certnet the blockchain is fostered by CertifiedTrue who provides blockchain business certification services, ecosystem and community management. 
 
 ## Why Create Certnet?
 Not since the Web itself has a technology promised broader and more fundamental revolution than blockchain technology. A blockchain is a peer-to-peer distributed ledger forged by consensus, combined with a system for “smart contracts” and other assistive technologies. Together these can be used to build a new generation of transactional applications that establishes trust, accountability and transparency at their core, while streamlining business processes and legal constraints.
@@ -9,13 +9,13 @@ Only an Open Source, collaborative software development approach can ensure the 
 
 ## Goals
 Certnet has the following goals:
-* Create enterprise grade, open source, distributed ledger and applications to support LRI certified business transactions.
+* Create enterprise grade, open source, distributed ledger and applications to support LIR certified business transactions.
 
 * Provide neutral, open, and community-driven blockchain supported by technical and business governance
 
 * Build technical communities to develop blockchain and shared ledger apps, and validate blockchain transactions for certification. Read about our [incentives for validators](https://certnet.io).
 
-* Educate the Legal, Real Estate and Insurance community about the market opportunity for blockchain technology.
+* Educate the Legal, Insurance an Real Estate community about the market opportunity for blockchain technology.
 
 * Promote our community of communities taking a validator and transactor approach with our blockchain and apps.
 
