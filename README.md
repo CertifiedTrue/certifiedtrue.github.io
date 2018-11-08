@@ -1,12 +1,4 @@
 
-### Status
-
-[![Storage Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
-[![CertNet Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
-[![CertTrue Build Status](https://travis-ci.org/CertifiedTrue/certifiedtrue.co.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certifiedtrue.co)
-[![Brooklyn Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
-
 # CertifiedTrue
 CertifiedTrue is a public/private consortium effort created to advance blockchain certification in Legal, Real Estate and Insurance (LIR). It is a composition of blockchain, smart contracts, web3js, content addressable storage and other enterprise technologies. Certnet the blockchain is fostered by CertifiedTrue who provides blockchain business certification services, ecosystem and community management. 
 
@@ -33,7 +25,7 @@ Certnet has the following goals:
 CertifiedTrue incubates and promotes a [range of business blockchain technologies](https://github.com/CertifiedTrue), including blockchain distributed ledger nodes on AWS, content addressable storage on GCP, Android and iOS client libraries, graphical interfaces, utility libraries and sample applications. CertifiedTrue strategy encourages the re-use of common software building blocks and enables rapid innovation of DLT components by supporting Hyperledger and different open source projects, contributing back to the progress through a standard [life cycle](https://wiki.hyperledger.org/community/project-lifecycle).  
 
 ## Get Involved with the CertifiedTrue community
-There are a number of ways that you can get involved with the [CertifiedTrue community](http://certifedture.co):
+There are a number of ways that you can get involved with the [CertifiedTrue community](http://certifiedtrue.net/):
 
 * Participate on the [Hyperledger mailing lists](http://lists.hyperledger.org/)
 
@@ -45,9 +37,9 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 
 * Search for open bugs or create a new bug in our [bug database](https://jira.hyperledger.org/)
 
-* Get the latest certifiedtrue nodes from our [repo](https://github.com/certifiedtrue)
+* Get the latest CertNet nodes from our [repo](https://github.com/CertifiedTrue/PoA)
 
-* Download the [code](https://github.com/hyperledger)
+* Download the sample [code](https://github.com/certifiedtrue)
 
 
 ### Status
