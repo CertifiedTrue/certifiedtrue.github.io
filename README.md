@@ -4,8 +4,8 @@
 [![Storage Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
 [![CertNet Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
 [![CertTrue Build Status](https://travis-ci.org/CertifiedTrue/certifiedtrue.co.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certifiedtrue.co)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
 [![Brooklyn Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
 
 # CertifiedTrue
 CertifiedTrue is a public/private consortium effort created to advance blockchain certification in Legal, Real Estate and Insurance (LIR). It is a composition of blockchain, smart contracts, web3js, content addressable storage and other enterprise technologies. Certnet the blockchain is fostered by CertifiedTrue who provides blockchain business certification services, ecosystem and community management. 
@@ -55,9 +55,8 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 [![Storage Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
 [![CertNet Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
 [![CertTrue Build Status](https://travis-ci.org/CertifiedTrue/certifiedtrue.co.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certifiedtrue.co)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
 [![Brooklyn Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
 
 
 
