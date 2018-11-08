@@ -19,7 +19,7 @@ Certnet has the following goals:
 
 * Promote our community of communities taking a validator and transactor approach with our blockchain and apps.
 
-* Open-Source, not Open-Contribtion. In order to ensure quality code, Certnet does not accept patches from unknonwn persons. 
+* Open-Source, not Open-Contribtion. In order to ensure quality code, Certnet does not accept patches from unknown persons. 
 
 ## Projects
 CertifiedTrue incubates and promotes a [range of business blockchain technologies](https://github.com/CertifiedTrue), including blockchain distributed ledger nodes on AWS, content addressable storage on GCP, Android and iOS client libraries, graphical interfaces, utility libraries and sample applications. CertifiedTrue strategy encourages the re-use of common software building blocks and enables rapid innovation of DLT components by supporting Hyperledger and different open source projects, contributing back to the progress through a standard [life cycle](https://wiki.hyperledger.org/community/project-lifecycle).  
