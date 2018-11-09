@@ -48,7 +48,7 @@ There are a number of ways that you can get involved with the [CertifiedTrue com
 [![Storage Build Status](https://travis-ci.org/perkeep/perkeep.svg?branch=master)](https://travis-ci.org/perkeep/perkeep)
 [![CertNet Build Status](https://travis-ci.org/CertifiedTrue/certnet.io.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certnet.io)	
 [![CertTrue Build Status](https://travis-ci.org/CertifiedTrue/certifiedtrue.co.svg?branch=master)](https://travis-ci.org/CertifiedTrue/certifiedtrue.co)
-[![Brooklyn Build Status](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/badge/icon)](https://jenkins.hyperledger.org/user/brooklyn/my-views/view/all/job/crypto-lib-verify-x86_64/)
+[![Baseline Build Status](https://jenkins.hyperledger.org/view/packer/job/ci-management-packer-merge-ubuntu-16.04-baseline/badge/icon)](https://jenkins.hyperledger.org/view/packer/job/ci-management-packer-merge-ubuntu-16.04-baseline/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/hyperledger/sawtooth-seth/blob/master/LICENSE)
 
 
